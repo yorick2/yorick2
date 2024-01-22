@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![magento2 version][ico-magento2-version]
 ![silverstripe version][ico-silverstripe-version]
 
+![Linux][ico-linux-version]
 ![Bash][ico-bash-version]
 ![Git][ico-git-version]
 ![Docker][ico-docker-version]
@@ -43,14 +44,15 @@ Here are some ideas to get you started:
 
 [ico-laravel-version]: https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [ico-vue-version]: https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white
-[ico-magento2-version]: https://img.shields.io/badge/Magento%202-FF2D20?style=for-the-badge&logo=magento2&logoColor=white
+[ico-magento2-version]: https://img.shields.io/badge/Magento%202-EE672F?style=for-the-badge&logo=magento&logoColor=white
 [ico-silverstripe-version]: https://img.shields.io/badge/Silverstripe%20-1572B6?style=for-the-badge&logo=silverstripe&logoColor=white
 
+[ico-linux-version]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white
 [ico-bash-version]: https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white
 [ico-git-version]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [ico-Docker-version]: https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white
 [ico-apache-version]: https://img.shields.io/badge/Apache-FF2D20?style=for-the-badge&logo=apache&logoColor=white
-[ico-nginx-version]: https://img.shields.io/badge/Nginx-FF2D20?style=for-the-badge&logo=nginx&logoColor=white
+[ico-nginx-version]: https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white
 [ico-php-version]: https://img.shields.io/badge/PHP%208.1-777BB4?style=for-the-badge&logo=php&logoColor=white
 [ico-phpunit-version]: https://img.shields.io/badge/PHPUnit-777BB4?style=for-the-badge&logoColor=white
 [ico-codeception-version]: https://img.shields.io/badge/Codeception-777BB4?style=for-the-badge&logo=codeception&logoColor=white
@@ -58,7 +60,7 @@ Here are some ideas to get you started:
 [ico-html-version]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [ico-css-version]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [ico-js-version]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
-[ico-npm-version]: https://img.shields.io/badge/NodeJs-FF2D20?style=for-the-badge&logo=npm&logoColor=white
+[ico-npm-version]: https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=npm&logoColor=white
 
 
 ### Hellooo there 👋. Feel free to look around my work and steal the an idea or two. Even a few open source projects I created.
