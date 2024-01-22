@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 ![Nginx][ico-nginx-version]
 
 ![PHP][ico-php-version]
-![PHPUNIT][ico-phpunit-version]
+![PHPUnit][ico-phpunit-version]
+![Dusk][ico-dusk-version]
 ![Codeception][ico-codeception-version]
 ![COMPOSER][ico-composer-version]
 ![HTML][ico-html-version]
@@ -55,6 +56,7 @@ Here are some ideas to get you started:
 [ico-nginx-version]: https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white
 [ico-php-version]: https://img.shields.io/badge/PHP%208.1-777BB4?style=for-the-badge&logo=php&logoColor=white
 [ico-phpunit-version]: https://img.shields.io/badge/PHPUnit-777BB4?style=for-the-badge&logoColor=white
+[ico-dusk-version]: https://img.shields.io/badge/Dusk-777BB4?style=for-the-badge&logoColor=white
 [ico-codeception-version]: https://img.shields.io/badge/Codeception-777BB4?style=for-the-badge&logo=codeception&logoColor=white
 [ico-composer-version]: https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white
 [ico-html-version]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
